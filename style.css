@@ -1,0 +1,27 @@
+h3{
+    color:aquamarine;
+    background-color: rgba(55, 0, 255, 0.263);
+
+}
+h4{
+    color:blue;
+    font-weight: 200;
+    font-size: 35px;
+    
+}
+.myclass{
+    color: darkcyan;
+    font-size: 25px;
+    
+}
+#myid{
+    font-size: 40px;
+    font-weight: 500;
+    color:deepskyblue;
+    background-color: brown;
+}
+h5,p{
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    
+}
